@@ -1,6 +1,9 @@
 <!-- Not the ending,just the beginning -->
 
 # RAS_Competition
+- Not the ending, just the beginning
+- I hope next time will be better
+  
 Arduino Smart Car
 ========================
 
