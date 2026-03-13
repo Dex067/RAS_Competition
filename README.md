@@ -170,8 +170,8 @@ Troubleshooting
 --------------         
 Issue                    |              Solution
 -------------------------|-----------------------------------------
-Motors not moving        |   Check L298N power supply and enable pins
-Bluetooth not connecting |  Verify RX/TX crossover and baud rate
+Motors not moving        |   Check L298N power supply & enable pins
+Bluetooth not connecting |  Verify RX/TX crossover & baud rate
 Line follower erratic    |  Adjust IR sensor height/angle
 -----------------------------------------------------------------------------------------------------------------
 
