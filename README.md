@@ -45,7 +45,7 @@ Hardware Components
 - Motors: 2x DC Geared Motors (6V-12V)
 - Bluetooth Module: HC-05 (UART)
 - IR Sensors: 3x TCRT5000 (Line tracking)
-- Servo Motor: SG90 (for ultrasonic panning)
+- Servo Motor: SG90 
 - Power Supply: 12V Battery (or 3x 18650 Li-ion)
 - Relay Module
 -----------------------------------------------------------------------------------------------------------------
