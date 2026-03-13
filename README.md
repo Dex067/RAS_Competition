@@ -9,6 +9,15 @@ Arduino Smart Car
 
 A Multi-Mode Bluetooth-Controlled Robotic Car
 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="Assets/Front.jpeg" width="300"/></td>
+      <td><img src="Assets/Side.jpeg" width="300"/></td>  
+</tr>
+  </table>
+</div>
+
 Overview
 --------
 This project is an Arduino-based robotic vehicle that supports two main operating modes:
@@ -70,6 +79,12 @@ O → Relay OFF
 E → Start Servo Sweep
 
 X → Stop Servo Sweep
+
+
+<div align="center">
+  <img src="Assets/RobotControlSystem_FlowChart.png" width="1000"/>
+</div>
+
 
 Manual Mode Features
 
